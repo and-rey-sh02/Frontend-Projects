@@ -8,7 +8,7 @@ import App from './App';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <BrowserRouter basename="/Frontend-Projects/tvmaze-finder">
+    <BrowserRouter basename="/Frontend-Projects">
       <FavoritesProvider>
         <App />
       </FavoritesProvider>
