@@ -8,7 +8,7 @@ TVMaze Finder is a React application for searching TV shows via the TVMaze API.
 
 ### Demo
 
-[Open Demo](https://and-rey-sh02.github.io/Frontend-Projects/tvmaze-finder)
+[Open Demo](https://and-rey-sh02.github.io/Frontend-Projects)
 
 ### Features
 
@@ -33,7 +33,7 @@ TVMaze Finder — це React-застосунок для пошуку серіа
 
 ### Демонстрація
 
-[Відкрити Демо](https://and-rey-sh02.github.io/Frontend-Projects/tvmaze-finder)
+[Відкрити Демо](https://and-rey-sh02.github.io/Frontend-Projects)
 
 ### Функції
 
