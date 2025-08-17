@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Frontend-Projects/static/css/main.0c205eb0.css",
+    "main.js": "/Frontend-Projects/static/js/main.9a91fba4.js",
+    "static/media/BackGround.jpg": "/Frontend-Projects/static/media/BackGround.ab86311da0ac8c82de44.jpg",
+    "index.html": "/Frontend-Projects/index.html",
+    "main.0c205eb0.css.map": "/Frontend-Projects/static/css/main.0c205eb0.css.map",
+    "main.9a91fba4.js.map": "/Frontend-Projects/static/js/main.9a91fba4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c205eb0.css",
+    "static/js/main.9a91fba4.js"
+  ]
+}
