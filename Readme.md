@@ -14,15 +14,6 @@ A collection of frontend projects built to improve and showcase my web developme
 * BEM Methodology
 * Git & GitHub
 
-## 📂 Projects
-
-| Project          | Description                                         | Status |
-| :--------------- | :-------------------------------------------------- | :----: |
-| TV Landing       | Responsive landing page for a TV streaming service. |    ✅   |
-| Coffee House     | Coffee shop landing page with adaptive layout.      |    ✅   |
-| Nike Landing     | Modern product landing page.                        |    ✅   |
-| More projects... | New frontend projects will be added regularly.      |   🚧   |
-
 ## 🎯 What You'll Find Here
 
 * Responsive layouts for desktop, tablet, and mobile devices
