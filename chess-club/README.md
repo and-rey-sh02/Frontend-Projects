@@ -9,7 +9,7 @@ Responsive design with clean layout.
 
 ### Demo
 
-[Open Demo](https://and-rey-sh02.github.io/Frontend-Projects/chess-club)
+[Open Demo](https://and-rey-sh02.github.io/Frontend-Projects/chess-club/)
 
 ### Tech Stack
 
@@ -26,7 +26,7 @@ Responsive design with clean layout.
 
 ### Демонстрація
 
-[Відкрити Демо](https://and-rey-sh02.github.io/Frontend-Projects/chess-club)
+[Відкрити Демо](https://and-rey-sh02.github.io/Frontend-Projects/chess-club/)
 
 ### Технології
 
