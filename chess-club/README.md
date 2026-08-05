@@ -2,6 +2,10 @@
 
 ---
 
+## 📸 Preview
+<img width="2878" height="1414" alt="image" src="https://github.com/user-attachments/assets/f04c79ef-45a5-4fe8-b35f-ba95a85b2345" />
+
+
 ## 🇺🇸 English
 
 Simple landing page for a chess club.  
